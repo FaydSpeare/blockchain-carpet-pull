@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/blockchain-carpet-pull/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/blockchain-carpet-pull/static/js/main.77a0bfda.chunk.js",
+    "main.js.map": "/blockchain-carpet-pull/static/js/main.77a0bfda.chunk.js.map",
+    "runtime-main.js": "/blockchain-carpet-pull/static/js/runtime-main.e711ca52.js",
+    "runtime-main.js.map": "/blockchain-carpet-pull/static/js/runtime-main.e711ca52.js.map",
+    "static/js/2.89bef6dc.chunk.js": "/blockchain-carpet-pull/static/js/2.89bef6dc.chunk.js",
+    "static/js/2.89bef6dc.chunk.js.map": "/blockchain-carpet-pull/static/js/2.89bef6dc.chunk.js.map",
+    "static/js/3.b3bd5505.chunk.js": "/blockchain-carpet-pull/static/js/3.b3bd5505.chunk.js",
+    "static/js/3.b3bd5505.chunk.js.map": "/blockchain-carpet-pull/static/js/3.b3bd5505.chunk.js.map",
+    "index.html": "/blockchain-carpet-pull/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/blockchain-carpet-pull/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.89bef6dc.chunk.js.LICENSE.txt": "/blockchain-carpet-pull/static/js/2.89bef6dc.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/blockchain-carpet-pull/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e711ca52.js",
+    "static/js/2.89bef6dc.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.77a0bfda.chunk.js"
+  ]
+}
