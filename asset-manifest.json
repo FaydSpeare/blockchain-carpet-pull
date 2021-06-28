@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/blockchain-rug-pull/static/css/main.5cc55caa.chunk.css",
-    "main.js": "/blockchain-rug-pull/static/js/main.990ae23a.chunk.js",
-    "main.js.map": "/blockchain-rug-pull/static/js/main.990ae23a.chunk.js.map",
+    "main.js": "/blockchain-rug-pull/static/js/main.8b37faf5.chunk.js",
+    "main.js.map": "/blockchain-rug-pull/static/js/main.8b37faf5.chunk.js.map",
     "runtime-main.js": "/blockchain-rug-pull/static/js/runtime-main.4f8f4fa6.js",
     "runtime-main.js.map": "/blockchain-rug-pull/static/js/runtime-main.4f8f4fa6.js.map",
     "static/js/2.0830f144.chunk.js": "/blockchain-rug-pull/static/js/2.0830f144.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.4f8f4fa6.js",
     "static/js/2.0830f144.chunk.js",
     "static/css/main.5cc55caa.chunk.css",
-    "static/js/main.990ae23a.chunk.js"
+    "static/js/main.8b37faf5.chunk.js"
   ]
 }
