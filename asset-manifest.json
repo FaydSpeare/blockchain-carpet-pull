@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/blockchain-rug-pull/static/css/main.44f6262a.chunk.css",
-    "main.js": "/blockchain-rug-pull/static/js/main.d314dc1b.chunk.js",
-    "main.js.map": "/blockchain-rug-pull/static/js/main.d314dc1b.chunk.js.map",
+    "main.css": "/blockchain-rug-pull/static/css/main.5cc55caa.chunk.css",
+    "main.js": "/blockchain-rug-pull/static/js/main.990ae23a.chunk.js",
+    "main.js.map": "/blockchain-rug-pull/static/js/main.990ae23a.chunk.js.map",
     "runtime-main.js": "/blockchain-rug-pull/static/js/runtime-main.4f8f4fa6.js",
     "runtime-main.js.map": "/blockchain-rug-pull/static/js/runtime-main.4f8f4fa6.js.map",
     "static/js/2.0830f144.chunk.js": "/blockchain-rug-pull/static/js/2.0830f144.chunk.js",
     "static/js/2.0830f144.chunk.js.map": "/blockchain-rug-pull/static/js/2.0830f144.chunk.js.map",
     "index.html": "/blockchain-rug-pull/index.html",
-    "static/css/main.44f6262a.chunk.css.map": "/blockchain-rug-pull/static/css/main.44f6262a.chunk.css.map",
+    "static/css/main.5cc55caa.chunk.css.map": "/blockchain-rug-pull/static/css/main.5cc55caa.chunk.css.map",
     "static/js/2.0830f144.chunk.js.LICENSE.txt": "/blockchain-rug-pull/static/js/2.0830f144.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.4f8f4fa6.js",
     "static/js/2.0830f144.chunk.js",
-    "static/css/main.44f6262a.chunk.css",
-    "static/js/main.d314dc1b.chunk.js"
+    "static/css/main.5cc55caa.chunk.css",
+    "static/js/main.990ae23a.chunk.js"
   ]
 }
