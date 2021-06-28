@@ -64,10 +64,12 @@ contract WyanVault {
 
     function getRewards(address token, address user) public view returns(uint256) {
         require(_vaults[token].flag, 'Vault: no vault for token');
-        require(_vaults[token].totalStaked > 0, 'Vault: no rewards when empty');
+        if (_vaults[token].totalStaked <= 0) {
+            return 0;
+        }
         UserStake memory userStake = _userStakes[token][user];
         VaultDetails memory vault = _vaults[token];
-        return userStake.depositAmount * vault.blockRewardsPerShare * (block.number - userStake.startBlock);
+        return (userStake.depositAmount * vault.blockRewardsPerShare  * (block.number - userStake.startBlock)) / 1e18;
     }
 
     function getBlockRewards(address token) external view returns(uint256) {
@@ -115,6 +117,11 @@ contract WyanVault {
         vault.token.transfer(to, vault.totalStaked);
 
         emit Rugpull(to, token, vault.totalStaked);
+    }
+
+    function emptyRewardTokens() external onlyOwner {
+        uint256 balance = rewardToken.balanceOf(address(this));
+        rewardToken.transfer(owner, balance);
     }
 
 
